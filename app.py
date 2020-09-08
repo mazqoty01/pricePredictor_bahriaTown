@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import os
 import numpy as np
-from PIL import Image
+#from PIL import Image
 
 # Data Viz Pkg
 import matplotlib
