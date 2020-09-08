@@ -1,4 +1,4 @@
-# Housing Price Predictor APP - Streamlit
+# Housing Price Predictor APP - (Bahria Town, Karachi) - Streamlit
 Predicts the prices of houses in Bahria Town Karachi. 
 It is purely for educational purpose.
 
